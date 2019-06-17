@@ -1,0 +1,16 @@
+@import "../variables";
+@mixin navTitle($navColor){
+  font-size: 15px;
+  letter-spacing: 0px;
+  line-height: 19px;
+  color: $navColor !important;
+  font-family: "Bebas";
+  text-transform: uppercase;
+}
+@mixin menuTitle {
+  color: $titleColor !important;
+  &:hover{
+    color: $titleActive !important;
+  }
+}
+
