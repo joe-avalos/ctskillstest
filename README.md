@@ -1,6 +1,6 @@
 ## PLEASE READ 
-When I first applied, I  didn't know the test was going to be timed. I was busy at the time, and just downloaded the psd document.<br />
-I had some time this weekend, and I started with the test from the document I had previously downloaded. I read the email, and saw that it would be timed and to not open the link until I was sure I could finish.<br />
+When I first applied, I  didn't know the test was going to be timed. I was busy at the time, and just downloaded the psd document.<br>
+I had some time this weekend, and I started with the test from the document I had previously downloaded. I read the email, and saw that it would be timed and to not open the link until I was sure I could finish.<br>
 Anyway, I completed the test and here's my code with a brief explanation. 
 
 ##Explanation
@@ -9,9 +9,16 @@ Frameworks used:
 <li>Material UI
 
 I don't have Photoshop installed on my computer, so I had to make do with an online .psd viewer which limited my ability to make everything "pixel perfect", but I'm confident with the work I did.<br/>
-I had to replace the _Myriad Pro_ font with _PT Sans_, because it is am Adobe proprietary font, and costs US$30 to download.<br />
-I only set up a submenu on "Title 2" and a subsubmenu on "Title 2.2"<br />
-The app is responsive, most elements work perfectly, but since this was not a requirement in the test, I didn't confirm every aspect of a responsive app.
+I had to replace the _Myriad Pro_ font with _PT Sans_, because it is am Adobe proprietary font, and costs US$30 to download.<br>
+I only set up a submenu on "Title 2" and a subsubmenu on "Title 2.2"<br>
+The app is responsive, most elements work perfectly, but since this was not a requirement in the test, I didn't confirm every aspect of a responsive app.<br>
+It took my approximately 4 hours to complete. The bulk of this time was spent customizing Material UI.<br/>
+<br>
+<br>
+**You can also find the git repository at: <br> [https://github.com/joe-avalos/ctskillstest.git](https://github.com/joe-avalos/ctskillstest.git)**
+<br>
+<br>
+**Thank you very much for considering my job application. <br>-José Ávalos**
 
 ## Run these scripts to run to see and use the App
 
