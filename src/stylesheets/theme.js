@@ -91,6 +91,13 @@ export default createMuiTheme({
       separator:{
         color: "#C9C9C9"
       }
+    },
+    MuiMenuItem:{
+      root:{
+        fontFamily: "Open Sans",
+        fontSize: 12,
+        textTransform: "uppercase"
+      }
     }
   }
 })
