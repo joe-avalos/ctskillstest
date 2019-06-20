@@ -101,7 +101,7 @@ export default function Contact() {
             </Grid>
           </form>
         </Grid>
-        <Grid item xs={12} md={6} style={{position: 'relative'}}>
+        <Grid item xs={12} md={6} style={{position: 'relative'}} className="addressGrid">
           <h3 className="subTitle">Reach Us</h3>
           <Divider/>
           <p className="addressText">Coalition Skills Test</p>
