@@ -2,10 +2,18 @@
 <li>React
 <li>Material UI
 
-## Run these scripts to run to see and use the App
+##Disclaimer
+
+This was a previous Coalition Technologies frontend test I did. You can see the Project 
+Repo at [https://github.com/joe-avalos/ctskillstest](https://github.com/joe-avalos/ctskillstest) 
+I'm sorry, but I'm currently working full-time and don't have time to do another test for CT.<br/>
+I never received a reply for this test version, so I hope this is enough.
+
+## Run these scripts to see and use the App
 
 In the project directory, you can run:
 
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.<br>
